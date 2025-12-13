@@ -2,7 +2,7 @@
 
 A simple, web-based Pomodoro Timer built with Streamlit and Python, designed to help you focus and log your work sessions automatically.
 
-![screenshot](Pomodoro.png)
+![screenshot](Assets/Pomodoro.png)
 
 -----
 
@@ -82,5 +82,6 @@ Upon completion of all cycles, a summary table will be displayed directly in the
 -----
 
 ## 👤 Contact
+
 
 Uvindu Deeyamulla - udeeyamulla@gmail.com 
