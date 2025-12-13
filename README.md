@@ -29,8 +29,8 @@ This is a Python application that uses Streamlit for its interface.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Uvindu Deeyamulla/UKD-pomodoro-repo.git
-    cd UKD-pomodoro-repo
+    git clone https://github.com/Uvindu Deeyamulla/PomodoroLogger
+    cd PomodoroLogger
     ```
 
 2.  **Install Dependencies:**
@@ -85,3 +85,4 @@ Upon completion of all cycles, a summary table will be displayed directly in the
 
 
 Uvindu Deeyamulla - udeeyamulla@gmail.com 
+
