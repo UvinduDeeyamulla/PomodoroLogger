@@ -77,7 +77,7 @@ Upon completion of all cycles, a summary table will be displayed directly in the
   * **Python 3.x**
   * **Streamlit:** For creating the interactive web interface.
   * **Pandas:** For creating and displaying the session log (`Final_df`).
-  * **`winsound`:** For playing sound alerts (Note: This module is specific to **Windows**).
+  * **`winsound`:** For playing sound alerts (Note: This module is specific to **Windows** This is the reason I cannot deploy this app into Streamilt community).
 
 -----
 
@@ -85,4 +85,5 @@ Upon completion of all cycles, a summary table will be displayed directly in the
 
 
 Uvindu Deeyamulla - udeeyamulla@gmail.com 
+
 
